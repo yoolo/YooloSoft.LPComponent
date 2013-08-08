@@ -1,8 +1,0 @@
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\obj\Debug\YooloSoft.LPComponent.ConsoleApp.csprojResolveAssemblyReference.cache
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\bin\Debug\YooloSoft.LPComponent.ConsoleApp.exe.config
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\bin\Debug\YooloSoft.LPComponent.ConsoleApp.exe
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\bin\Debug\YooloSoft.LPComponent.ConsoleApp.pdb
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\bin\Debug\YooloSoft.LPComponent.Common.dll
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\bin\Debug\YooloSoft.LPComponent.Common.pdb
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\obj\Debug\YooloSoft.LPComponent.ConsoleApp.exe
-F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.ConsoleApp\obj\Debug\YooloSoft.LPComponent.ConsoleApp.pdb
