@@ -1,0 +1,4 @@
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.Common\bin\Debug\YooloSoft.LPComponent.Common.dll
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.Common\bin\Debug\YooloSoft.LPComponent.Common.pdb
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.Common\obj\Debug\YooloSoft.LPComponent.Common.dll
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.Common\obj\Debug\YooloSoft.LPComponent.Common.pdb

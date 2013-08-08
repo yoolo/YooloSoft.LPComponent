@@ -1,0 +1,8 @@
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\bin\Debug\YooloSoft.LPComponent.NunitTest.dll
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\bin\Debug\YooloSoft.LPComponent.NunitTest.pdb
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\bin\Debug\nunit.framework.dll
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\obj\Debug\YooloSoft.LPComponent.NunitTest.csprojResolveAssemblyReference.cache
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\obj\Debug\YooloSoft.LPComponent.NunitTest.dll
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\obj\Debug\YooloSoft.LPComponent.NunitTest.pdb
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\bin\Debug\YooloSoft.LPComponent.Common.dll
+F:\SelfPro\YooloSoft.LPComponent\YooloSoft.LPComponent.NunitTest\bin\Debug\YooloSoft.LPComponent.Common.pdb
