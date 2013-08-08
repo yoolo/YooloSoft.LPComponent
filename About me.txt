@@ -1,0 +1,4 @@
+Some code about .NET in practice . eg, MutilThreads , ThreadPool, GC, Design Pattern , OOD , DB , MSMQ , Cache and so on.
+
+Email: jaypkwyl@163.com
+
